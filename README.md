@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React and Angular**
 
-- 👯 I’m looking to collaborate on **MEAN projects And IOT projects**
+- 👯 I’m looking to collaborate on **MERN projects And Mobile App projects**
 
 - 💬 Ask me about **React, Symfony and Android**
 

@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jalled Omar</h1>
 <h3 align="center">A passionate developer from Tunisia</h3>
 
-- 🌱 I’m currently learning **React and Angular**
+- 🌱 I’m currently learning **Flutter and NEXT JS**
 
 - 👯 I’m looking to collaborate on **MERN projects And Mobile App projects**
 

@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jalled Omar</h1>
-<h3 align="center">A passionate developer from Tunisia</h3>
+<h3 align="center">A passionate DevOps enthusiast from Tunisia</h3>
 
-- 🌱 I’m currently learning **Flutter and NEXT JS**
+- 🌱 I’m currently learning **Docker, Kubernetes, and Terraform**
 
-- 👯 I’m looking to collaborate on **MERN projects And Mobile App projects**
+- 👯 I’m looking to collaborate on **Cloud Infrastructure and CI/CD Pipeline projects**
 
-- 💬 Ask me about **React, Symfony and Android**
+- 💬 Ask me about **Linux, Git, and bash scripting**
 
 - 📫 How to reach me **jalledomar2001@gmail.com**
 

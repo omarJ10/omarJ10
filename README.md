@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jalled Omar</h1>
+<h1 align="center">Hi 👋, I'm Omar Jalled </h1>
 <h3 align="center">A passionate DevOps enthusiast from Tunisia</h3>
 
 - 🌱 I’m currently learning **Docker, Kubernetes, and Terraform**
